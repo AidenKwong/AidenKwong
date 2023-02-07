@@ -20,7 +20,7 @@ Express |
 Docker | 
 AWS
 
-<b>✅ Databases</b>
+<b>✅ Databases</b> --->
 MySQL |
 PostgreSQL |
 MongoDB |
